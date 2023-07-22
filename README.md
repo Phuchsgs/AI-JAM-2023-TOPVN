@@ -8,10 +8,11 @@
 - Nguyen Hoang Dung
 - Hoang Nhat Nam
 - Nguyen Danh Khoa
+- Nguyen Khuong Duy
 
 **QUICK OVERVIEW**
 
-Our team, named "InnovaTech23", is participating in the IoT competition with the theme of Home Automation System. InnovaTech23consists of 6 members, all from Vietnam, filled with enthusiasm, a spirit of curiosity, always searching, breaking through new fields of knowledge. The name "InnovaTech23" demonstrates our creativity and the miracles of technology, suggesting that we have the ability to turn ideas into reality. Innovation and passion guide us in creating advanced and intelligent technological solutions for smart home automation systems. Our team is oriented towards the common goal of developing groundbreaking solutions that bring convenience and energy savings for the smart home of the future.
+Our team, named "InnovaTech23", is participating in the IoT competition with the theme of Home Automation System. InnovaTech23 consists of 6 members, all from Vietnam, filled with enthusiasm, a spirit of curiosity, always searching, and breaking through new fields of knowledge. The name "InnovaTech23" demonstrates our creativity and the miracles of technology, suggesting that we have the ability to turn ideas into reality. Innovation and passion guide us in creating advanced and intelligent technological solutions for innovative home automation systems. Our team is oriented towards the common goal of developing groundbreaking solutions that bring convenience and energy savings for the smart home of the future.
 
 ## **ABSTRACT**
 
